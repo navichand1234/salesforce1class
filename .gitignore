@@ -1,3 +1,20 @@
+x/
+.localdevserver/
+deploy-options.json
+.localdev
+
+# LWC VSCode autocomplete
+**/lwc/jsconfig.json
+
+# LWC Jest coverage reports
+coverage/
+
+# Eslint cache
+.eslintcache
+
+# Local environment variables
+.env
+
 # Compiled class file
 *.class
 
